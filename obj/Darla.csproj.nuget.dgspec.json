@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tyler\\OneDrive - Brigham Young University\\Documents\\IS 413\\Darla\\Darla\\Darla.csproj": {}
+    "/Users/glacierlij/RiderProjects/Darla1/Darla.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tyler\\OneDrive - Brigham Young University\\Documents\\IS 413\\Darla\\Darla\\Darla.csproj": {
+    "/Users/glacierlij/RiderProjects/Darla1/Darla.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tyler\\OneDrive - Brigham Young University\\Documents\\IS 413\\Darla\\Darla\\Darla.csproj",
+        "projectUniqueName": "/Users/glacierlij/RiderProjects/Darla1/Darla.csproj",
         "projectName": "Darla",
-        "projectPath": "C:\\Users\\tyler\\OneDrive - Brigham Young University\\Documents\\IS 413\\Darla\\Darla\\Darla.csproj",
-        "packagesPath": "C:\\Users\\tyler\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tyler\\OneDrive - Brigham Young University\\Documents\\IS 413\\Darla\\Darla\\obj\\",
+        "projectPath": "/Users/glacierlij/RiderProjects/Darla1/Darla.csproj",
+        "packagesPath": "/Users/glacierlij/.nuget/packages/",
+        "outputPath": "/Users/glacierlij/RiderProjects/Darla1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tyler\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/glacierlij/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/glacierlij/.dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
