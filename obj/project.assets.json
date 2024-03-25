@@ -8,26 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mikaylarandall\\.nuget\\packages\\": {}
+    "/Users/mikaylarandall/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mikaylarandall\\Source\\Repos\\Darla\\Darla.csproj",
+      "projectUniqueName": "/Users/mikaylarandall/Downloads/IS 413/Darla/Darla.csproj",
       "projectName": "Darla",
-      "projectPath": "C:\\Users\\mikaylarandall\\Source\\Repos\\Darla\\Darla.csproj",
-      "packagesPath": "C:\\Users\\mikaylarandall\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mikaylarandall\\Source\\Repos\\Darla\\obj\\",
+      "projectPath": "/Users/mikaylarandall/Downloads/IS 413/Darla/Darla.csproj",
+      "packagesPath": "/Users/mikaylarandall/.nuget/packages/",
+      "outputPath": "/Users/mikaylarandall/Downloads/IS 413/Darla/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mikaylarandall\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/mikaylarandall/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -64,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/mikaylarandall/.dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
