@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/perlavaldovinos/Documents/GitHub/Darla/Darla.csproj": {}
+    "/Users/focusmode/RiderProjects/Darla/Darla.csproj": {}
   },
   "projects": {
-    "/Users/perlavaldovinos/Documents/GitHub/Darla/Darla.csproj": {
+    "/Users/focusmode/RiderProjects/Darla/Darla.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/perlavaldovinos/Documents/GitHub/Darla/Darla.csproj",
+        "projectUniqueName": "/Users/focusmode/RiderProjects/Darla/Darla.csproj",
         "projectName": "Darla",
-        "projectPath": "/Users/perlavaldovinos/Documents/GitHub/Darla/Darla.csproj",
-        "packagesPath": "/Users/perlavaldovinos/.nuget/packages/",
-        "outputPath": "/Users/perlavaldovinos/Documents/GitHub/Darla/obj/",
+        "projectPath": "/Users/focusmode/RiderProjects/Darla/Darla.csproj",
+        "packagesPath": "/Users/focusmode/.nuget/packages/",
+        "outputPath": "/Users/focusmode/RiderProjects/Darla/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/perlavaldovinos/.nuget/NuGet/NuGet.Config"
+          "/Users/focusmode/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -56,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/perlavaldovinos/.dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
