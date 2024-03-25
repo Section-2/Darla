@@ -9,47 +9,47 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Darla
 build_property.RootNamespace = Darla
-build_property.ProjectDir = C:\Users\jaden\source\repos\Darla\
+build_property.ProjectDir = C:\Users\hyrum\Source\Repos\Darla\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\jaden\source\repos\Darla
+build_property.MSBuildProjectDirectory = C:\Users\hyrum\Source\Repos\Darla
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/jaden/source/repos/Darla/Views/Home/classRubric.cshtml]
+[C:/Users/hyrum/source/repos/Darla/Views/Home/classRubric.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjbGFzc1J1YnJpYy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jaden/source/repos/Darla/Views/Home/Confirmation.cshtml]
+[C:/Users/hyrum/source/repos/Darla/Views/Home/Confirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb25maXJtYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jaden/source/repos/Darla/Views/Home/missingReq.cshtml]
+[C:/Users/hyrum/source/repos/Darla/Views/Home/missingReq.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxtaXNzaW5nUmVxLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jaden/source/repos/Darla/Views/Home/taGradeProgress.cshtml]
+[C:/Users/hyrum/source/repos/Darla/Views/Home/taGradeProgress.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx0YUdyYWRlUHJvZ3Jlc3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jaden/source/repos/Darla/Views/Shared/Error.cshtml]
+[C:/Users/hyrum/source/repos/Darla/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jaden/source/repos/Darla/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/hyrum/source/repos/Darla/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jaden/source/repos/Darla/Views/_ViewImports.cshtml]
+[C:/Users/hyrum/source/repos/Darla/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jaden/source/repos/Darla/Views/_ViewStart.cshtml]
+[C:/Users/hyrum/source/repos/Darla/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jaden/source/repos/Darla/Views/Shared/_Layout.cshtml]
+[C:/Users/hyrum/source/repos/Darla/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-bb0wavyouw

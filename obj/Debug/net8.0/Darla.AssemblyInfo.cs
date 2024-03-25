@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Darla")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0f440de336a8928d0b02237452baef220fd3916")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+550d0cb02ac2bed4bb619d7b2bdff91b704b0780")]
 [assembly: System.Reflection.AssemblyProductAttribute("Darla")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Darla")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
