@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tyler\\OneDrive - Brigham Young University\\Documents\\IS 413\\Darla\\Darla\\Darla.csproj": {}
+    "C:\\Users\\mikaylarandall\\Source\\Repos\\Darla\\Darla.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tyler\\OneDrive - Brigham Young University\\Documents\\IS 413\\Darla\\Darla\\Darla.csproj": {
+    "C:\\Users\\mikaylarandall\\Source\\Repos\\Darla\\Darla.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tyler\\OneDrive - Brigham Young University\\Documents\\IS 413\\Darla\\Darla\\Darla.csproj",
+        "projectUniqueName": "C:\\Users\\mikaylarandall\\Source\\Repos\\Darla\\Darla.csproj",
         "projectName": "Darla",
-        "projectPath": "C:\\Users\\tyler\\OneDrive - Brigham Young University\\Documents\\IS 413\\Darla\\Darla\\Darla.csproj",
-        "packagesPath": "C:\\Users\\tyler\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tyler\\OneDrive - Brigham Young University\\Documents\\IS 413\\Darla\\Darla\\obj\\",
+        "projectPath": "C:\\Users\\mikaylarandall\\Source\\Repos\\Darla\\Darla.csproj",
+        "packagesPath": "C:\\Users\\mikaylarandall\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mikaylarandall\\Source\\Repos\\Darla\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tyler\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mikaylarandall\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
