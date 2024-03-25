@@ -18,7 +18,15 @@ namespace Darla.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult ClassRubric()
+        {
+            return View();
+        }
+        public IActionResult MissingReq()
+        {
+            return View();
+        }
+        public IActionResult TAGradeProgress()
         {
             return View();
         }
