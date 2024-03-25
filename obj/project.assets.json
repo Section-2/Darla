@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/brysonlindsey/.nuget/packages/": {}
+    "/Users/mikaylarandall/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/brysonlindsey/Documents/GitHub/Darla/Darla.csproj",
+      "projectUniqueName": "/Users/mikaylarandall/Downloads/IS 413/Darla/Darla.csproj",
       "projectName": "Darla",
-      "projectPath": "/Users/brysonlindsey/Documents/GitHub/Darla/Darla.csproj",
-      "packagesPath": "/Users/brysonlindsey/.nuget/packages/",
-      "outputPath": "/Users/brysonlindsey/Documents/GitHub/Darla/obj/",
+      "projectPath": "/Users/mikaylarandall/Downloads/IS 413/Darla/Darla.csproj",
+      "packagesPath": "/Users/mikaylarandall/.nuget/packages/",
+      "outputPath": "/Users/mikaylarandall/Downloads/IS 413/Darla/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/brysonlindsey/.nuget/NuGet/NuGet.Config"
+        "/Users/mikaylarandall/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/Users/brysonlindsey/.dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/mikaylarandall/.dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
