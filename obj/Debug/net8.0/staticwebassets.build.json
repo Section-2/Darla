@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jzGg7FqRzkSDUcqnKezUDBHsvR2UH+EBL20/WtdzX4E=",
+  "Hash": "M47OPYWibG5+IM4kZBsyRliAKQxF7TVIl0OC2MDM/pg=",
   "Source": "Darla",
   "BasePath": "_content/Darla",
   "Mode": "Default",
@@ -112,12 +112,12 @@
       "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/css/bootstrap-grid.css",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/css/bootstrap-grid.css",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -128,15 +128,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/css/bootstrap-grid.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/css/bootstrap-grid.css.map",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/css/bootstrap-grid.css.map",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,15 +147,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/css/bootstrap-grid.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/css/bootstrap-grid.min.css",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/css/bootstrap-grid.min.css",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -166,15 +166,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/css/bootstrap-grid.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/css/bootstrap-grid.min.css.map",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/css/bootstrap-grid.min.css.map",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -185,15 +185,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/css/bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/css/bootstrap-grid.rtl.css",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/css/bootstrap-grid.rtl.css",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -204,15 +204,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/css/bootstrap-grid.rtl.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/css/bootstrap-grid.rtl.css.map",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/css/bootstrap-grid.rtl.css.map",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -223,15 +223,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/css/bootstrap-grid.rtl.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/css/bootstrap-grid.rtl.min.css",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/css/bootstrap-grid.rtl.min.css",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -242,15 +242,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/css/bootstrap-grid.rtl.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/css/bootstrap-grid.rtl.min.css.map",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/css/bootstrap-grid.rtl.min.css.map",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -261,15 +261,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/css/bootstrap-grid.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/css/bootstrap-reboot.css",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/css/bootstrap-reboot.css",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -280,15 +280,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/css/bootstrap-reboot.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/css/bootstrap-reboot.css.map",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/css/bootstrap-reboot.css.map",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -299,15 +299,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/css/bootstrap-reboot.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/css/bootstrap-reboot.min.css",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/css/bootstrap-reboot.min.css",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -318,15 +318,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/css/bootstrap-reboot.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/css/bootstrap-reboot.min.css.map",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/css/bootstrap-reboot.min.css.map",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -337,15 +337,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/css/bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/css/bootstrap-reboot.rtl.css",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/css/bootstrap-reboot.rtl.css",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -356,15 +356,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/css/bootstrap-reboot.rtl.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/css/bootstrap-reboot.rtl.css.map",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/css/bootstrap-reboot.rtl.css.map",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -375,15 +375,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/css/bootstrap-reboot.rtl.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/css/bootstrap-reboot.rtl.min.css",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/css/bootstrap-reboot.rtl.min.css",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -394,15 +394,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/css/bootstrap-reboot.rtl.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/css/bootstrap-reboot.rtl.min.css.map",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/css/bootstrap-reboot.rtl.min.css.map",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -413,15 +413,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/css/bootstrap-reboot.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/css/bootstrap-utilities.css",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/css/bootstrap-utilities.css",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -432,15 +432,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/css/bootstrap-utilities.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/css/bootstrap-utilities.css.map",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/css/bootstrap-utilities.css.map",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -451,15 +451,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/css/bootstrap-utilities.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/css/bootstrap-utilities.min.css",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/css/bootstrap-utilities.min.css",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -470,15 +470,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/css/bootstrap-utilities.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/css/bootstrap-utilities.min.css.map",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/css/bootstrap-utilities.min.css.map",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -489,15 +489,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/css/bootstrap-utilities.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/css/bootstrap-utilities.rtl.css",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/css/bootstrap-utilities.rtl.css",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -508,15 +508,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/css/bootstrap-utilities.rtl.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/css/bootstrap-utilities.rtl.css.map",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/css/bootstrap-utilities.rtl.css.map",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -527,15 +527,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/css/bootstrap-utilities.rtl.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/css/bootstrap-utilities.rtl.min.css",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/css/bootstrap-utilities.rtl.min.css",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -546,15 +546,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/css/bootstrap-utilities.rtl.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/css/bootstrap-utilities.rtl.min.css.map",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/css/bootstrap-utilities.rtl.min.css.map",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -565,15 +565,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/css/bootstrap-utilities.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/css/bootstrap.css",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/css/bootstrap.css",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -584,15 +584,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/css/bootstrap.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/css/bootstrap.css.map",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/css/bootstrap.css.map",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -603,15 +603,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/css/bootstrap.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/css/bootstrap.min.css",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/css/bootstrap.min.css",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -622,15 +622,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/css/bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/css/bootstrap.min.css.map",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/css/bootstrap.min.css.map",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -641,15 +641,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/css/bootstrap.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/css/bootstrap.rtl.css",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/css/bootstrap.rtl.css",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -660,15 +660,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/css/bootstrap.rtl.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/css/bootstrap.rtl.css.map",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/css/bootstrap.rtl.css.map",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -679,15 +679,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/css/bootstrap.rtl.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/css/bootstrap.rtl.min.css",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/css/bootstrap.rtl.min.css",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -698,15 +698,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/css/bootstrap.rtl.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/css/bootstrap.rtl.min.css.map",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/css/bootstrap.rtl.min.css.map",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -717,15 +717,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/css/bootstrap.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/js/bootstrap.bundle.js",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/js/bootstrap.bundle.js",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -736,15 +736,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/js/bootstrap.bundle.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/js/bootstrap.bundle.js.map",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/js/bootstrap.bundle.js.map",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -755,15 +755,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/js/bootstrap.bundle.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/js/bootstrap.bundle.min.js",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/js/bootstrap.bundle.min.js",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -774,15 +774,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/js/bootstrap.bundle.min.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/js/bootstrap.bundle.min.js.map",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/js/bootstrap.bundle.min.js.map",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -793,15 +793,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/js/bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/js/bootstrap.esm.js",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/js/bootstrap.esm.js",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -812,15 +812,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/js/bootstrap.esm.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/js/bootstrap.esm.js.map",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/js/bootstrap.esm.js.map",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -831,15 +831,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/js/bootstrap.esm.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/js/bootstrap.esm.min.js",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/js/bootstrap.esm.min.js",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -850,15 +850,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/js/bootstrap.esm.min.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/js/bootstrap.esm.min.js.map",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/js/bootstrap.esm.min.js.map",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -869,15 +869,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/js/bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/js/bootstrap.js",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/js/bootstrap.js",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -888,15 +888,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/js/bootstrap.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/js/bootstrap.js.map",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/js/bootstrap.js.map",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -907,15 +907,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/js/bootstrap.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/js/bootstrap.min.js",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/js/bootstrap.min.js",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -926,15 +926,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/js/bootstrap.min.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/js/bootstrap.min.js.map",
+      "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "SourceId": "Darla",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/focusmode/RiderProjects/Darla/wwwroot/",
       "BasePath": "_content/Darla",
-      "RelativePath": "lib/bootstrap/js/bootstrap.min.js.map",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -945,7 +945,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/js/bootstrap.min.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
       "Identity": "/Users/focusmode/RiderProjects/Darla/wwwroot/lib/bootstrap/LICENSE",
