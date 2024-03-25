@@ -156,3 +156,6 @@ bld/
 [Oo]bj/
 [Ll]og/
 
+bin/
+obj/
+
