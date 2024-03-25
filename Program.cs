@@ -11,6 +11,8 @@ builder.Services.AddDbContext<IntexGraderContext>(options =>
     options.UseSqlite(builder.Configuration["ConnectionStrings:IntextConnection"]);
 });
 
+builder.Services.AddScoped<IIntexRepository, EFIntexRepository>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
